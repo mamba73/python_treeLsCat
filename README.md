@@ -17,7 +17,7 @@ It is specifically built to respect `.gitignore` rules and automatically skip bi
 
 1. **Clone the repository:**
    ```bash
-    git clone github.com
+    git clone git@github.com:mamba73/python_treeLsCat.git
     cd python_treeLsCat
     ```
     Install dependencies:
@@ -40,7 +40,7 @@ It is specifically built to respect `.gitignore` rules and automatically skip bi
     SAVE = project_summary.txt
     ```
 3. **Check Output:**
-    The result will be stored in the ./save directory.
+    The result will be stored in the ./save (sub)directory of python_treeLsCat.
 
 ## 📂 Output Format
 The generated file will look like this:
