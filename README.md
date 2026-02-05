@@ -69,4 +69,8 @@ README.md
 ## 📝 License
 This project is open-source and available under the MIT License.
 
+---
+*Developed by [mamba73](https://github.com/mamba73). Feel free to submit issues or pull requests!*
+
 [Buy Me a Coffee ☕](https://buymeacoffee.com/mamba73)
+
